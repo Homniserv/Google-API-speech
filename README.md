@@ -3,6 +3,8 @@
 
 API : https://cloud.google.com/speech-to-text/
 
+Price : https://console.cloud.google.com/apis/library/speech.googleapis.com?q=speech&id=7ae3f475-64e7-4123-880a-a889f34fa714&project=networkalarmmoueza
+
 Node.js https://www.youtube.com/watch?v=ETeeSYMGZn0 
 
 12mn58
