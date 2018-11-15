@@ -1,6 +1,8 @@
 # Google-API-speech
 ...from https://github.com/Homniserv/Google-API-vision
 
+API : https://cloud.google.com/speech-to-text/
+
 Node.js https://www.youtube.com/watch?v=ETeeSYMGZn0 
 
 12mn58
