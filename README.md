@@ -1,9 +1,10 @@
 # Google-API-speech
 ...from https://github.com/Homniserv/Google-API-vision
 
-Code : https://github.com/sararob/ml-talk-demos
+Codes : 
+   https://github.com/sararob/ml-talk-demos
 
-       https://github.com/sararob/video-intelligence-demo
+   https://github.com/sararob/video-intelligence-demo
        
 API : https://cloud.google.com/speech-to-text/
 
